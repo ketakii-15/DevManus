@@ -1,15 +1,16 @@
 {
-    "name": "DevManus-Vinni",
+    "name": "Easy Traverse media",
     "version": "1.0",
-    "manifest_version": "1.0",
-    "action": {
-        "default_popup": "popup.html",
-        "default_icon": "icon_64.png"
-    },
+    "manifest_version": 2,
+    "description": "A simple Chrome extension to easily traverse to popular websites.",
     "icons": {
-        "128": "icon_128.png"
+    "128": "icon_my.jpg"
     },
     "permissions": [
-        "activeTab"
-    ]
-}
+    "activeTab"
+    ],
+    "browser_action": {
+    "default_icon": "icon_64.jpg",
+    "default_popup": "popup.html"
+    }
+    }
