@@ -1,1 +1,1 @@
-# DevManus-Vinnicromeextension
+# Easy Traverse media
